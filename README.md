@@ -2,6 +2,8 @@
 <img src="/WAVYHOME.png" width="100%" />
  </p>
  
+ [View Demo](https://youtu.be/5iQ9Wb5UmXk)
+ 
  [![Netlify Status](https://api.netlify.com/api/v1/badges/8c90b7ea-2487-4076-a4a4-dc249cd3f658/deploy-status)](https://app.netlify.com/sites/zcamp-web/deploys)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
